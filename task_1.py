@@ -5,3 +5,4 @@ for x in list1:
     if x not in list2:
         result.append(x)
 print(result)
+
