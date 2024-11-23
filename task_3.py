@@ -5,3 +5,4 @@ for digit in str(num):
     sum_digits += int(digit)
 
 print(sum_digits)
+
