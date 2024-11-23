@@ -7,3 +7,4 @@ for num in sequence:
         break
 
 print(unique)
+
